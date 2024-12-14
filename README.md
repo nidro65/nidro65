@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nidro65
 - 👀 I’m interested in a lot of stuff
-- 🌱 I’m currently learning about finance and algorithmic trading
+- 🌱 I’m currently learning about trapped ion quantum computing
 - 💞️ I’m looking to collaborate on small software projects of all kinds
 - 📫 You can reach me by simply writing me an e-mail to nidro98@gmx.de
 
